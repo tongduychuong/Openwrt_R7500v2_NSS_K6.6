@@ -9,7 +9,8 @@
 #
 
 name: Build OpenWrt
-
+permissions:
+  contents: write
 env:
   REPO_URL: https://github.com/tongduychuong/R7800-nss
   REPO_BRANCH: r7800-k6.x-nss
