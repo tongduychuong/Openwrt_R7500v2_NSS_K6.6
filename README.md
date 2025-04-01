@@ -1,4 +1,4 @@
-# OpenWrt Kernel 6.6 firmware for R7500 V2 with NSS Driver
+# OpenWrt Kernel 5.15 firmware for R7500 V2 with NSS Driver
 
 Auto build Openwrt firmware for R7500 V2 NSS via GitHub Actions
 
